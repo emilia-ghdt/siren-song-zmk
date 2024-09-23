@@ -1,0 +1,14 @@
+file_format: "1"
+id: siren_song
+name: Siren Song
+type: shield
+url: https://github.com/emilia-ghdt/siren-song
+requires: [seeeduino_xiao_ble]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - backlight
+siblings:
+  - siren_song_left
+  - siren_song_right
