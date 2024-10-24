@@ -3,7 +3,7 @@ id: siren_song
 name: Siren Song
 type: shield
 url: https://github.com/emilia-ghdt/siren-song
-requires: [seeeduino_xiao_ble]
+requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
