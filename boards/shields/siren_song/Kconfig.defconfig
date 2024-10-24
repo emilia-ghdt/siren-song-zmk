@@ -8,6 +8,13 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
+if SHIELD_MY_BOARD_RIGHT
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default n
+
+endif
+
 if SHIELD_MY_BOARD_LEFT || SHIELD_MY_BOARD_RIGHT
 
 config ZMK_SPLIT
