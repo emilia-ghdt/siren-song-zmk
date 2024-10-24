@@ -9,6 +9,7 @@ features:
   - keys
   - display
   - backlight
+  - studio
 siblings:
   - siren_song_left
   - siren_song_right
