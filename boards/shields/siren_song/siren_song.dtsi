@@ -59,9 +59,9 @@ RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4)                 RC(2,5) RC(2,6) RC(2,7) 
              , <&key_physical_attrs 100 94 357 376 0 357 376>
              , <&key_physical_attrs 100 94 468 391 (1500) 468 391>
              , <&key_physical_attrs 100 94 571 433 (3000) 571 433>
-             , <&key_physical_attrs 100 94 946 376 0 946 376>
-             , <&key_physical_attrs 100 94 836 391 (-1500) 836 391>
              , <&key_physical_attrs 100 94 733 433 (-3000) 733 433>
+             , <&key_physical_attrs 100 94 836 391 (-1500) 836 391>
+             , <&key_physical_attrs 100 94 946 376 0 946 376>
              ;
     };
 
