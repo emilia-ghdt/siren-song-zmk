@@ -63,5 +63,81 @@
         extra12 {
             status = "reserved";
         };
+
+        extra13 {
+            status = "reserved";
+        };
+
+        extra14 {
+            status = "reserved";
+        };
+
+        extra15 {
+            status = "reserved";
+        };
+
+        extra16 {
+            status = "reserved";
+        };
+
+        extra17 {
+            status = "reserved";
+        };
+
+        extra18 {
+            status = "reserved";
+        };
+
+        extra19 {
+            status = "reserved";
+        };
+
+        extra20 {
+            status = "reserved";
+        };
+
+        extra21 {
+            status = "reserved";
+        };
+
+        extra22 {
+            status = "reserved";
+        };
+
+        extra23 {
+            status = "reserved";
+        };
+
+        extra24 {
+            status = "reserved";
+        };
+
+        extra25 {
+            status = "reserved";
+        };
+
+        extra26 {
+            status = "reserved";
+        };
+
+        extra27 {
+            status = "reserved";
+        };
+
+        extra28 {
+            status = "reserved";
+        };
+
+        extra29 {
+            status = "reserved";
+        };
+
+        extra30 {
+            status = "reserved";
+        };
+
+        extra31 {
+            status = "reserved";
+        };
     };
  };
