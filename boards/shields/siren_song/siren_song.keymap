@@ -140,4 +140,7 @@
             status = "reserved";
         };
     };
- };
+};
+&led_strip {
+    chain-length = <21>;
+};
