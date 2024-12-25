@@ -41,6 +41,6 @@
 
 / {
     chosen {
-        zmk,underglow = &led_striptest;
+        zmk,underglow = &led_strip;
     };
 };
