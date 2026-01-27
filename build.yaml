@@ -4,20 +4,20 @@
 # to the `include` property. You can also use the `cmake-args` property to
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
-# board: [ "nice_nano_v2" ]
+# board: [ "nice_nano" ]
 # shield: [ "siren_song_left", "siren_song_right" ]
 
 include:
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: siren_song_left
     snippet: studio-rpc-usb-uart
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: siren_song_right
 # include:
 #   - board: bdn9_rev2
-#   - board: nice_nano_v2
+#   - board: nice_nano
 #     shield: reviung41
-#   - board: nice_nano_v2
+#   - board: nice_nano
 #     shield: corne_left
 #     cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
 #     artifact-name: corne_left_with_logging
